@@ -38,7 +38,7 @@
 
 
 <div style="padding-top: 20px; text-align: center;">
-    <img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Animated Coding GIF" height="190" width="350">
+    <img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Animated Coding GIF" height="190" width="300">
 </div>
 
 <p align="left">
