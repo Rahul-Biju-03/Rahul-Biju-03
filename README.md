@@ -3,18 +3,13 @@
 
   
 ### About Me:    
-I am a 4th-year undergraduate computer science student, interested in **Machine Learning and Artificial Intelligence.** My expertise lies in Speech Analytics, where I have honed my skills using advanced machine learning techniques. I am passionate about Generative AI and have hands-on experience with large language models, particularly utilizing the **OpenVINO toolkit** for optimization and deployment.
+I am an Undergraduate Computer Science student, interested in **Machine Learning and Artificial Intelligence.** My expertise lies in **Speech Analytics**, where I have honed my skills using advanced machine learning techniques. I am passionate about Generative AI and have hands-on experience with large language models, particularly utilizing the **OpenVINO toolkit** for optimization and deployment.
 
-Currently, I am engaged in an impactful research project titled **"Analyze the Perception and Production of Prosody in Depressed vs. Non-Depressed Individuals"** which aims to provide deep insights into mental health through speech analysis.
+
        
-   
-### Social media: 📡    
-
-
-
 ### Working on: 🚀
 
-
+Currently, I am engaged in an impactful research project titled **"Analyze the Perception and Production of Prosody in Depressed vs. Non-Depressed Individuals"** which aims to provide deep insights into mental health through speech analysis.
 
 
 ## Languages and Tools 
