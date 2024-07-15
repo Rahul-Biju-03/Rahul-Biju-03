@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Rahul Biju</h1>
+<h3 align="center">ML and AI enthusiast</h3>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rahul-Biju-03&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,PullRequestReview,Forks,Watchers,Gists,Contributions,Experience,Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -88,3 +91,5 @@ Currently, I am engaged in an impactful research project titled **"Analyze the P
 <div align="center">
   <img src="https://github.com/user-attachments/assets/87fe3280-f764-4b36-a1d4-d74196bbb74a" alt="github-snake">
 </div>
+
+
