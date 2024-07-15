@@ -85,6 +85,6 @@ Currently, I am engaged in an impactful research project titled **"Analyze the P
   <img src="https://komarev.com/ghpvc/?username=Rahul-Biju-03&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<p align="center">
- <img width="1000" src="![github-snake](https://github.com/user-attachments/assets/7713dfba-98b7-49c2-9f2d-77b430619fff)" alt="snake"/>
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/87fe3280-f764-4b36-a1d4-d74196bbb74a" alt="github-snake">
+</div>
