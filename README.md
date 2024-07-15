@@ -1,47 +1,93 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/C5616AQFv-yy2b583cg/profile-displaybackgroundimage-shrink_350_1400/0/1653471073638?e=1714003200&v=beta&t=WP0MhyCHOU88wic2Ieg5Uk51CGgM6rPcLa45AOqtYVA" alt="Background Image">
-</p>
-<h1 align="center">Hi 👋, I'm Rahul Biju</h1>
-<h3 align="center">3rd year Computer Science Student</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-biju-03&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-biju-03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-biju-03" alt="rahul-biju-03" /></a> </p>
-
-- 🔭 I’m currently working on **ANALYSE THE PERCEPTION AND PRODUCTION OF PROSODY IN DEPRESSED VS NON DEPRESSED** Project in IIIT
-
-- 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **rahulbijuatom@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/rahul-biju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-biju" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rahulbiju03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulbiju03" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rahul-Biju-03&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,PullRequestReview,Forks,Watchers,Gists,Contributions,Experience,Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<div style="padding-top: 20px; text-align: center;">
-    <img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Animated Coding GIF" height="190" width="300">
+  
+### About Me:    
+I am a 4th-year undergraduate computer science student, interested in machine learning and artificial intelligence. My expertise lies in speech analytics, where I have honed my skills using advanced machine learning techniques. I am passionate about Generative AI and have hands-on experience with large language models, particularly utilizing the OpenVINO toolkit for optimization and deployment. Currently, I am engaged in an impactful research project titled "Analyze the Perception and Production of Prosody in Depressed vs. Non-Depressed Individuals," which aims to provide deep insights into mental health through speech analysis.
+       
+   
+### Social media: 📡    
+
+
+
+### Working on: 🚀
+
+
+
+
+## Languages and Tools 
+<div>
+
+### Languages:
+| Python3 | C |
+|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img 
+
+  
+
+### Best frameworks and main libraries for Python3:
+
+| Pytorch  | Numpy | Pandas | Sklearn |
+|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img 
+
+
+### My tools for Data Manipulation & Visualisation:
+
+| Jupyter | MySQL | Matpltlib |
+|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
+
+  
+
+
+
+
+
+
+
+<!--
+
+### It's not technology, but I use it. The section will be changed soon.:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="30" height="30"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>
+--> 
 </div>
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-biju-03&show_icons=true&locale=en" alt="rahul-biju-03" />
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Rahul-Biju-03&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
+---
 
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Rahul-Biju-03&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Biju-03&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rahul-Biju-03&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="![github-snake](https://github.com/user-attachments/assets/7713dfba-98b7-49c2-9f2d-77b430619fff)" alt="snake"/>
+</p>
