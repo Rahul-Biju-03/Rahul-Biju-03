@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-biju-03" alt="rahul-biju-03" /></a> </p>
 
-- 🔭 I’m currently working on **Speaker identification IIIT Project**
+- 🔭 I’m currently working on **ANALYSE THE PERCEPTION AND PRODUCTION OF PROSODY IN DEPRESSED VS NON DEPRESSED** Project in IIIT
 
 - 🌱 I’m currently learning **Python**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Rahul-Biju-03?tab=repositories](https://github.com/Rahul-Biju-03?tab=repositories)
 
 - 📫 How to reach me **rahulbijuatom@gmail.com**
 
