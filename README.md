@@ -6,7 +6,35 @@
 
   
 ### About Me:    
-I am an Undergraduate Computer Science student, interested in **Machine Learning and Artificial Intelligence.** My expertise lies in **Speech Analytics**, where I have honed my skills using advanced machine learning techniques. I am passionate about Generative AI and have hands-on experience with large language models, particularly utilizing the **OpenVINO toolkit** for optimization and deployment.
+I am an Undergraduate Computer Science student, interested in **Machine Learning and Artificial Intelligence.** My expertise lies in **Speech Analytics**, where I have honed my skills using advanced machine learning techniques. I am passionate about Generative AI and have hands-on experience with large language models, particularly utilizing the **Intel® OpenVINO™ toolkit** for optimization and deployment.
+
+
+### 🌟 Featured Projects
+
+#### GenAI and LLM Inference on Intel AI Laptops
+- Completed under the Intel Unnati Industrial Training Program
+- Developed and optimized models for running GenAI applications on Intel AI Laptops
+- Implemented simple LLM inference on CPU and fine-tuned LLM models using Intel® OpenVINO™
+- Utilized the Tinyllama Model for efficient processing
+
+#### Voice Biometrics Project
+- Completed as a College Mini Project
+- Developed a Voice Biometrics website for user authentication based on voice recognition
+- Leveraged the Google Web Speech API and Gaussian Mixture Models (GMM) for accurate voice authentication
+
+
+---
+
+### 🤝 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-biju/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- Add other social media badges here -->
+</p>
+
+<!-- CSS for profile image animation -->
 
 
        
